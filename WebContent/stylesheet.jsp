@@ -68,7 +68,7 @@ function setcheckbox(table) {
 </table>
 </form>
 
-
+<input type="text" name="test">
 <script type="text/javascript">
 setcheckbox(document.getElementById("softList"));
 </script>
