@@ -15,6 +15,10 @@ function setcheckbox(table) {
 	    cell2.innerHTML = HTML;
 	}
 }
+
+function alert1(){
+	alert(こんにちは！);
+}
 </script>
 
 
@@ -68,7 +72,8 @@ function setcheckbox(table) {
 </table>
 </form>
 
-<input type="text" name="test">
+
+<input type="button" value="テスト" onclick="alert1();">
 <script type="text/javascript">
 setcheckbox(document.getElementById("softList"));
 </script>
