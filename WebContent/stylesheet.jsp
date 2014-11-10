@@ -19,6 +19,10 @@ function setcheckbox(table) {
 function alert1(){
 	alert(こんにちは！);
 }
+
+function disp(){
+	
+}
 </script>
 
 
